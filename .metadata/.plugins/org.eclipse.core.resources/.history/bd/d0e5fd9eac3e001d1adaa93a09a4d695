@@ -20,7 +20,6 @@ public class FindNumbersWithEvenNumberOfDigits {
 
 	private static boolean evenDigits(int i) {
 		
-		// edge case: what if a number in the array is negative ? Fix --->
 		if(i<0) {
 			i = i*-1;
 		}
