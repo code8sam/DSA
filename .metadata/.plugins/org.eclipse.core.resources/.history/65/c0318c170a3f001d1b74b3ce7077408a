@@ -1,0 +1,20 @@
+package Easy;
+
+public class RichestCustomerWealth {
+	
+	public static void main(String[]args) {
+		
+		int[][] arr = {{1, 2, 3}, {3, 2, 1}};
+		int maximum = maximunmWealth(arr);
+		System.out.println(maximum);
+		
+	}
+
+	private static int maximunmWealth(int[][] accounts) {
+		
+		int[] arrayCol = new int [accounts.length];
+		
+		return 0;
+	}
+
+}
