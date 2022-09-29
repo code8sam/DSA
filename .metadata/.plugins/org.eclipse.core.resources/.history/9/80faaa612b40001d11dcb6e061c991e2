@@ -1,0 +1,13 @@
+package Easy;
+
+public class OrderAgnosticBinarySearch {
+	
+	public static void main(String[]args) {
+		
+		int[] arr = {-18, -12, 22, 0, 89};
+		int target = 22;
+		int ans = orderAgnosticBS(arr, target);
+		System.out.println(ans);
+	}
+
+}
