@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Easy.CeilingOfANumber&apos; to &apos;CeilingOfANumberAscending&apos;&#x0D;&#x0A;- Original project: &apos;DataStructuresAndAlgo&apos;&#x0D;&#x0A;- Original element: &apos;Easy.CeilingOfANumber&apos;&#x0D;&#x0A;- Renamed element: &apos;Easy.CeilingOfANumberAscending&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CeilingOfANumber&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Easy{CeilingOfANumber.java[CeilingOfANumber" matchStrategy="1" name="CeilingOfANumberAscending" qualified="false" references="true" similarDeclarations="false" stamp="1664793870273" textual="false" version="1.0"/>
+</session>
