@@ -2,8 +2,6 @@ package Easy;
 
 public class FindSmallestLetterGreaterThanTarget {
 	
-	// https://leetcode.com/problems/find-smallest-letter-greater-than-target/
-	
 	public static void main(String[]args) {
 		
 		char[] arr = {'c', 'f', 'j'};
